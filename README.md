@@ -3,13 +3,7 @@ This small system of ODEs models the variables of temperature, and two chemical 
 The first chemical species is a precursor which is not exothermic, so you don't expect the temperature to go up as the combustion of this group proceeds.  
 The second fuel derived from the precursor is highly exothermic, and this is what will drive the temperature variable up over time.
 #################################################
- _________         ______             
-|  _   _  |       |_   _ `.           
-|_/ | | \_|.--.     | | `. \  .--.    
-    | |  / .'`\ \   | |  | |/ .'`\ \  
-   _| |_ | \__. |  _| |_.' /| \__. |  
-  |_____| '.__.'  |______.'  '.__.'   
-                                      
+To Do
 ##################################################
 Your goal is to make a simulink simulation of the branched chain explosion.  Feel free to use MATLAB code blocks if you are familiar.
 The stiffness 'e' will have consequences on the behavior of the integrator.  
